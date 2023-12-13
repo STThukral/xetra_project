@@ -7,6 +7,9 @@ name = "pypi"
 pandas = "*"
 jupyter = "*"
 boto3 = "*"
+pyyaml = "*"
+pylint = "*"
+moto = "*"
 
 [dev-packages]
 
